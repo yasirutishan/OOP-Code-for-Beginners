@@ -1,0 +1,13 @@
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Continue\bin\Debug\netcoreapp3.1\Continue.exe
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Continue\bin\Debug\netcoreapp3.1\Continue.deps.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Continue\bin\Debug\netcoreapp3.1\Continue.runtimeconfig.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Continue\bin\Debug\netcoreapp3.1\Continue.runtimeconfig.dev.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Continue\bin\Debug\netcoreapp3.1\Continue.dll
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Continue\bin\Debug\netcoreapp3.1\Continue.pdb
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Continue\obj\Debug\netcoreapp3.1\Continue.csproj.AssemblyReference.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Continue\obj\Debug\netcoreapp3.1\Continue.AssemblyInfoInputs.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Continue\obj\Debug\netcoreapp3.1\Continue.AssemblyInfo.cs
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Continue\obj\Debug\netcoreapp3.1\Continue.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Continue\obj\Debug\netcoreapp3.1\Continue.dll
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Continue\obj\Debug\netcoreapp3.1\Continue.pdb
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Continue\obj\Debug\netcoreapp3.1\Continue.genruntimeconfig.cache

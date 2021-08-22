@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: DataTypes, Configuration: Debug Any CPU ------
+1>C:\Users\Yasiru Tishan\Desktop\New folder (4)\DataTypes\Program.cs(14,22,14,31): error CS1002: ; expected
+1>Done building project "DataTypes.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

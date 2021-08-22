@@ -1,0 +1,3 @@
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfoInputs.cache
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.AssemblyInfo.cs
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\DataTypes\obj\Debug\netcoreapp3.1\DataTypes.csproj.CoreCompileInputs.cache
