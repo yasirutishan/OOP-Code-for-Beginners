@@ -1,0 +1,12 @@
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Comparison Operators\bin\Debug\netcoreapp3.1\Comparison Operators.exe
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Comparison Operators\bin\Debug\netcoreapp3.1\Comparison Operators.deps.json
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Comparison Operators\bin\Debug\netcoreapp3.1\Comparison Operators.runtimeconfig.json
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Comparison Operators\bin\Debug\netcoreapp3.1\Comparison Operators.runtimeconfig.dev.json
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Comparison Operators\bin\Debug\netcoreapp3.1\Comparison Operators.dll
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Comparison Operators\bin\Debug\netcoreapp3.1\Comparison Operators.pdb
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Comparison Operators\obj\Debug\netcoreapp3.1\Comparison Operators.AssemblyInfoInputs.cache
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Comparison Operators\obj\Debug\netcoreapp3.1\Comparison Operators.AssemblyInfo.cs
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Comparison Operators\obj\Debug\netcoreapp3.1\Comparison Operators.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Comparison Operators\obj\Debug\netcoreapp3.1\Comparison Operators.dll
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Comparison Operators\obj\Debug\netcoreapp3.1\Comparison Operators.pdb
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Comparison Operators\obj\Debug\netcoreapp3.1\Comparison Operators.genruntimeconfig.cache

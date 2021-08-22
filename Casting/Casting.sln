@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting", "Casting.csproj", "{66B7F877-44E7-41E0-B540-B060BCEEC20B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66B7F877-44E7-41E0-B540-B060BCEEC20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B7F877-44E7-41E0-B540-B060BCEEC20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B7F877-44E7-41E0-B540-B060BCEEC20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B7F877-44E7-41E0-B540-B060BCEEC20B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A846FE5-2B04-414C-8756-0B5E3C2224A1}
+	EndGlobalSection
+EndGlobal

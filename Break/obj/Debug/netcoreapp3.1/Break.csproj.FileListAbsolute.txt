@@ -1,0 +1,13 @@
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Break\bin\Debug\netcoreapp3.1\Break.exe
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Break\bin\Debug\netcoreapp3.1\Break.deps.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Break\bin\Debug\netcoreapp3.1\Break.runtimeconfig.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Break\bin\Debug\netcoreapp3.1\Break.runtimeconfig.dev.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Break\bin\Debug\netcoreapp3.1\Break.dll
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Break\bin\Debug\netcoreapp3.1\Break.pdb
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Break\obj\Debug\netcoreapp3.1\Break.csproj.AssemblyReference.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Break\obj\Debug\netcoreapp3.1\Break.AssemblyInfoInputs.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Break\obj\Debug\netcoreapp3.1\Break.AssemblyInfo.cs
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Break\obj\Debug\netcoreapp3.1\Break.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Break\obj\Debug\netcoreapp3.1\Break.dll
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Break\obj\Debug\netcoreapp3.1\Break.pdb
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Break\obj\Debug\netcoreapp3.1\Break.genruntimeconfig.cache
