@@ -1,0 +1,12 @@
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Logical Operators\bin\Debug\netcoreapp3.1\Logical Operators.exe
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Logical Operators\bin\Debug\netcoreapp3.1\Logical Operators.deps.json
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Logical Operators\bin\Debug\netcoreapp3.1\Logical Operators.runtimeconfig.json
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Logical Operators\bin\Debug\netcoreapp3.1\Logical Operators.runtimeconfig.dev.json
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Logical Operators\bin\Debug\netcoreapp3.1\Logical Operators.dll
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Logical Operators\bin\Debug\netcoreapp3.1\Logical Operators.pdb
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Logical Operators\obj\Debug\netcoreapp3.1\Logical Operators.AssemblyInfoInputs.cache
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Logical Operators\obj\Debug\netcoreapp3.1\Logical Operators.AssemblyInfo.cs
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Logical Operators\obj\Debug\netcoreapp3.1\Logical Operators.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Logical Operators\obj\Debug\netcoreapp3.1\Logical Operators.dll
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Logical Operators\obj\Debug\netcoreapp3.1\Logical Operators.pdb
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Logical Operators\obj\Debug\netcoreapp3.1\Logical Operators.genruntimeconfig.cache
