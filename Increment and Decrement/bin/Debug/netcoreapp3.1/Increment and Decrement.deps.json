@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Increment and Decrement/1.0.0": {
+        "runtime": {
+          "Increment and Decrement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Increment and Decrement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

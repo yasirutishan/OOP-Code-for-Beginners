@@ -1,0 +1,13 @@
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Increment and Decrement\bin\Debug\netcoreapp3.1\Increment and Decrement.exe
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Increment and Decrement\bin\Debug\netcoreapp3.1\Increment and Decrement.deps.json
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Increment and Decrement\bin\Debug\netcoreapp3.1\Increment and Decrement.runtimeconfig.json
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Increment and Decrement\bin\Debug\netcoreapp3.1\Increment and Decrement.runtimeconfig.dev.json
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Increment and Decrement\bin\Debug\netcoreapp3.1\Increment and Decrement.dll
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Increment and Decrement\bin\Debug\netcoreapp3.1\Increment and Decrement.pdb
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Increment and Decrement\obj\Debug\netcoreapp3.1\Increment and Decrement.csproj.AssemblyReference.cache
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Increment and Decrement\obj\Debug\netcoreapp3.1\Increment and Decrement.AssemblyInfoInputs.cache
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Increment and Decrement\obj\Debug\netcoreapp3.1\Increment and Decrement.AssemblyInfo.cs
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Increment and Decrement\obj\Debug\netcoreapp3.1\Increment and Decrement.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Increment and Decrement\obj\Debug\netcoreapp3.1\Increment and Decrement.dll
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Increment and Decrement\obj\Debug\netcoreapp3.1\Increment and Decrement.pdb
+C:\Users\Yasiru Tishan\Desktop\New folder (4)\Increment and Decrement\obj\Debug\netcoreapp3.1\Increment and Decrement.genruntimeconfig.cache

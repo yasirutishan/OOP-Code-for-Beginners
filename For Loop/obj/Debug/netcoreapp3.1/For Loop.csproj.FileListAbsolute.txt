@@ -1,0 +1,12 @@
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\For Loop\bin\Debug\netcoreapp3.1\For Loop.exe
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\For Loop\bin\Debug\netcoreapp3.1\For Loop.deps.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\For Loop\bin\Debug\netcoreapp3.1\For Loop.runtimeconfig.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\For Loop\bin\Debug\netcoreapp3.1\For Loop.runtimeconfig.dev.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\For Loop\bin\Debug\netcoreapp3.1\For Loop.dll
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\For Loop\bin\Debug\netcoreapp3.1\For Loop.pdb
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\For Loop\obj\Debug\netcoreapp3.1\For Loop.AssemblyInfoInputs.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\For Loop\obj\Debug\netcoreapp3.1\For Loop.AssemblyInfo.cs
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\For Loop\obj\Debug\netcoreapp3.1\For Loop.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\For Loop\obj\Debug\netcoreapp3.1\For Loop.dll
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\For Loop\obj\Debug\netcoreapp3.1\For Loop.pdb
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\For Loop\obj\Debug\netcoreapp3.1\For Loop.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\If Statement\bin\Debug\netcoreapp3.1\If Statement.exe
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\If Statement\bin\Debug\netcoreapp3.1\If Statement.deps.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\If Statement\bin\Debug\netcoreapp3.1\If Statement.runtimeconfig.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\If Statement\bin\Debug\netcoreapp3.1\If Statement.runtimeconfig.dev.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\If Statement\bin\Debug\netcoreapp3.1\If Statement.dll
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\If Statement\bin\Debug\netcoreapp3.1\If Statement.pdb
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\If Statement\obj\Debug\netcoreapp3.1\If Statement.AssemblyInfoInputs.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\If Statement\obj\Debug\netcoreapp3.1\If Statement.AssemblyInfo.cs
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\If Statement\obj\Debug\netcoreapp3.1\If Statement.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\If Statement\obj\Debug\netcoreapp3.1\If Statement.dll
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\If Statement\obj\Debug\netcoreapp3.1\If Statement.pdb
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\If Statement\obj\Debug\netcoreapp3.1\If Statement.genruntimeconfig.cache
