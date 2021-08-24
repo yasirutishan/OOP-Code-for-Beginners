@@ -1,0 +1,12 @@
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\While Loop\bin\Debug\netcoreapp3.1\While Loop.exe
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\While Loop\bin\Debug\netcoreapp3.1\While Loop.deps.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\While Loop\bin\Debug\netcoreapp3.1\While Loop.runtimeconfig.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\While Loop\bin\Debug\netcoreapp3.1\While Loop.runtimeconfig.dev.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\While Loop\bin\Debug\netcoreapp3.1\While Loop.dll
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\While Loop\bin\Debug\netcoreapp3.1\While Loop.pdb
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\While Loop\obj\Debug\netcoreapp3.1\While Loop.AssemblyInfoInputs.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\While Loop\obj\Debug\netcoreapp3.1\While Loop.AssemblyInfo.cs
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\While Loop\obj\Debug\netcoreapp3.1\While Loop.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\While Loop\obj\Debug\netcoreapp3.1\While Loop.dll
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\While Loop\obj\Debug\netcoreapp3.1\While Loop.pdb
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\While Loop\obj\Debug\netcoreapp3.1\While Loop.genruntimeconfig.cache
