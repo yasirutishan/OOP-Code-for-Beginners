@@ -1,0 +1,12 @@
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Switch\bin\Debug\netcoreapp3.1\Switch.exe
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Switch\bin\Debug\netcoreapp3.1\Switch.deps.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.dev.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Switch\bin\Debug\netcoreapp3.1\Switch.dll
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Switch\bin\Debug\netcoreapp3.1\Switch.pdb
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfoInputs.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfo.cs
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Switch\obj\Debug\netcoreapp3.1\Switch.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Switch\obj\Debug\netcoreapp3.1\Switch.dll
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Switch\obj\Debug\netcoreapp3.1\Switch.pdb
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\Switch\obj\Debug\netcoreapp3.1\Switch.genruntimeconfig.cache

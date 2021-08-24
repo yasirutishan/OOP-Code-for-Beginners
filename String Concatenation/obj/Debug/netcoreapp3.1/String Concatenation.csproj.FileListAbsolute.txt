@@ -1,0 +1,12 @@
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\String Concatenation\obj\Debug\netcoreapp3.1\String Concatenation.AssemblyInfoInputs.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\String Concatenation\obj\Debug\netcoreapp3.1\String Concatenation.AssemblyInfo.cs
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\String Concatenation\obj\Debug\netcoreapp3.1\String Concatenation.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\String Concatenation\bin\Debug\netcoreapp3.1\String Concatenation.exe
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\String Concatenation\bin\Debug\netcoreapp3.1\String Concatenation.deps.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\String Concatenation\bin\Debug\netcoreapp3.1\String Concatenation.runtimeconfig.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\String Concatenation\bin\Debug\netcoreapp3.1\String Concatenation.runtimeconfig.dev.json
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\String Concatenation\bin\Debug\netcoreapp3.1\String Concatenation.dll
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\String Concatenation\bin\Debug\netcoreapp3.1\String Concatenation.pdb
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\String Concatenation\obj\Debug\netcoreapp3.1\String Concatenation.dll
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\String Concatenation\obj\Debug\netcoreapp3.1\String Concatenation.pdb
+C:\Users\Yasiru Tishan\Desktop\C# Code for Beginners\String Concatenation\obj\Debug\netcoreapp3.1\String Concatenation.genruntimeconfig.cache
