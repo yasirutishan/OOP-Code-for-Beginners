@@ -1,0 +1,6 @@
+C:\Users\Yasiru Tishan\Desktop\Static\bin\Debug\Static.exe.config
+C:\Users\Yasiru Tishan\Desktop\Static\bin\Debug\Static.exe
+C:\Users\Yasiru Tishan\Desktop\Static\bin\Debug\Static.pdb
+C:\Users\Yasiru Tishan\Desktop\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Tishan\Desktop\Static\obj\Debug\Static.exe
+C:\Users\Yasiru Tishan\Desktop\Static\obj\Debug\Static.pdb
