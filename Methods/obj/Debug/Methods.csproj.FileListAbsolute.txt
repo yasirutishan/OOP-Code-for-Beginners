@@ -1,0 +1,6 @@
+C:\Users\Yasiru Tishan\Desktop\Methods\bin\Debug\Methods.exe.config
+C:\Users\Yasiru Tishan\Desktop\Methods\bin\Debug\Methods.exe
+C:\Users\Yasiru Tishan\Desktop\Methods\bin\Debug\Methods.pdb
+C:\Users\Yasiru Tishan\Desktop\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Yasiru Tishan\Desktop\Methods\obj\Debug\Methods.exe
+C:\Users\Yasiru Tishan\Desktop\Methods\obj\Debug\Methods.pdb
